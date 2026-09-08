@@ -8,7 +8,7 @@
 
 *Calculadora de Consumo de Energia Elétrica*
 
-Este projeto é uma ferramenta simples e eficiente desenvolvida para estimar o consumo mensal de energia elétrica de aparelhos eletrodomésticos, além de calcular o custo estimado em reais (R$) com base na tarifa local informada pelo usuário.
+Este projeto é uma ferramenta simples e eficiente desenvolvida para estimar o consumo mensal de energia elétrica de aparelhos eletrodomésticos, além de calcular o custo estimado em reais (R$) com base na tarifa local.
 
 ---
 
